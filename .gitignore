@@ -1,0 +1,4 @@
+_prompt/prompt.xlsx
+_prompt/prompt.json
+# Ignore the prompt files
+_annualReport/*
