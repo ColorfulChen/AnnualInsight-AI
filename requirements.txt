@@ -1,4 +1,6 @@
-pandas
-openpyxl
+# pandas
+# openpyxl
+# google-genai
 dotenv
-google-genai
+openai==0.28
+requests
