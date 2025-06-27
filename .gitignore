@@ -1,4 +1,5 @@
 _prompt/*
 # Ignore the prompt files
 _annualReport/*
+_results/*
 .env
